@@ -9,11 +9,3 @@
     "socket.io": "^4.7.2"
   }
 }
-```
-
----
-
-### File 3 — `.gitignore`
-👉 **Just one line inside it**
-```
-node_modules/
